@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  BOOK
+
+  Created by liujianji on 16/3/14.
+  Copyright © 2016年 liujianji. All rights reserved.
+*/
+"home page"="首页";
+"magazine"="杂志";
+"measurement"="测评";
+"BBS"="论坛";
+
+"free"="免费";
+"Aspecialissue"="特刊";
+"2016"="2016";
+
+"thecar"="轿车";
+"cross-country"="越野";
+"sportscar"="跑车";
+
+"today"="今日";
+"week"="本周";
+"month"="本月";
+//导航栏
+"assessmentdetails"="测评详情";
+"Publishing BBS"="发布论坛";
+//发布论坛
+"title"="标题";
+"release"="发布";
+"Please enter a title"="请输入标题";
+"At this moment, what do you want to say"="这一刻,你想说些什么";
+////个人中心
+"login"="登录";
+"Mobile phone no"="手机号";
+"password"="密  码";
+"registered"="注册";
+"Forgot password"="忘记密码";
+"Verification"="验证码";
+"Sendverification"="发送验证码";
+"My collection"="我的收藏";
+"Offline reading"="离线阅读";
+"Service feedback"="服务反馈";
+"About us"="关于我们";
+"I release"="我的发布";
+"set Up"="设置";
+"Log Out"="退出登录";
+"reading"="阅读";
+"download"="下载";
+"Magazine details"="杂志详情";
+"Notlogged"="未登录";
+//
+"Confirmpassword"="确认密码";
+"submit"="提交";
+"Please enter the phone number"="请先输入电话号码";
+"Please input the correct phone number"="请输入正确电话号码";
+"Please enter the password"="请输入密码";
+"Please enter the confirmation password"="请输入确认密码";
+"The password can't be too long or too short"="密码不能太长或过短";
+"Please enter the account"="请输入账号";
+////首页
+//"Change the password"＝"修改密码";
+"Change the password"="修改密码";
+//
+"reading"="阅读";
+"download"="下载";
+"Assessment details"="测评详情";
+"BBS details"="论坛详情";
+"Magazine content"="杂志目录";
+"Magazine details"="杂志详情";
+"Customer service telephone"="客服电话";
+"Language Settings"="语言设置";
+"Magazine content"="杂志目录";
+"Forgot password"="忘记密码";
+"Set up the"="设置";
+"directory"="目录";
+"article details"="收藏的文章";
+"My download"="我的下载";
+"Release success"="发布成功";
+"Comment on success"="评论成功";
+"Post failure"="发布失败";
+"Please enter a title"="请输入标题";
+"Please fill out our feedback, your opinion is a big help for us"="请填写我们的反馈意见,你的意见对我们的帮组很大";
+"Please leave your E-mail, so as to enable us to reply you"="请留下您的邮箱,以便我们回复您";
+"No recommendation"="没有推荐";
+"oldpassword"="旧密码";
+"newpassword"="新密码";
+"Please enter the old password"="请输入旧密码";
+"Please enter a new password"="请输入新密码";
+"The password can't be too long or too short"="The password can't be too long or too short";
+"The password can't be too long or too short"="密码不能太长或过短";
+"Two input password is not the same"="两次输入的密码不一样";
+"Modify the success"="修改成功";
+"Modify the failure"="修改失败";
+"Login successful"="登录成功";
+"registered successful"="注册成功";
+"No one comment"="还没有人评论哦";
+"Have downloaded"="已经下载";
+"Download failed"="下载失败";
+"Delete the success"="删除成功";
+"Download successful"="下载成功";
+"Articles"="文章";
+"Please fill in the comments"="请填写评论";
+"Fill in the comments"="填写评论";
+
+"send"="发送";
+"Search"="搜索";
+"Please enter your query keyword"="请输入你要查询的关键字";
+"Today"="目录";
+"month"="本月";
+"Details directory"="详情目录";
+//"Magazine details"＝"杂志详情";
+"Not logged in"="未登录";
+"cancel"="取消";
+"magazine"="杂志";
+"Load failed"="加载失败";
+"Open the camera"="打开照相机";
+"Open the photo album"="打开相册";
+"Words can't be empty"="文字不能为空";
+"Comment on failure"="评论失败";
+"Comment on success"="评论成功";
+"In the download"="下载中";
+"The download is complete"="下载完成";
+"Download address is empty"="下载地址为空";
+"delete"="删除";
+"Please enter the keywords"="请输入关键字";
+"view count"="浏览次数";
+"reply count"="回复次数";
+"Oh, oh, there is no data!"="哦哦,没有数据!";
+"refresh"="刷新";
+"Click refresh to refresh the data"="点击刷新去刷新数据";
+"Magazine details"="杂志详情";
+"browse"="浏览";
+"share"="分享";
+"comments"="评论";
+"collection"="收藏";
+"product"="产品";
+"Comment details"="评论详情";
+"Stay tuned for"="敬请期待!";

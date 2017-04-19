@@ -1,0 +1,143 @@
+/* 
+  Localizable.strings
+  BOOK
+
+  Created by liujianji on 16/3/14.
+  Copyright © 2016年 liujianji. All rights reserved.
+*/
+//tabBar
+"home page"="Home Page";
+"magazine"="Magazine";
+"measurement"="Measurement";
+"BBS"="BBS";
+
+"free"="Free";
+"Aspecialissue"="ASpecialIssue";
+"2016"="2016";
+
+"thecar"="TheCar";
+"cross-country"="CorssCountry";
+"sportscar"="SportsCar";
+
+"today"="Today";
+"week"="Week";
+"month"="Month";
+////导航栏
+"assessmentdetails"="AssessmentDetails";
+"Publishing BBS"="PublishingBBS";
+////发布论坛
+"title"="title";
+"release"="release";
+"Please enter a title"="Please enter a title";
+"At this moment, what do you want to say"="At this moment, what do you want to say";
+//
+////个人信息
+"login"="login";
+"Mobile phone no"="Mobilephone";
+"password"="password";
+"registered"="Registered";
+"Forgot password"="Forgot password";
+"Verification"="Verification";
+"Sendverification"="Sendverification";
+"My collection"="My collection";
+"Offline reading"="Offline reading";
+"Service feedback"="Service feedback";
+"About us"="About us";
+"I release"="I release";
+"set Up"="set Up";
+"Log Out"="Log Out";
+"reading"="reading";
+"download"="download";
+"Magazine details"="Magazine details";
+"Notlogged"="Notlogged";
+"Confirmpassword"="Confirmpassword";
+"submit"="submit";
+"Please enter the phone number"="Please enter the phone number";
+
+"Please input the correct phone number"="Please input the correct phone number";
+"Please enter the password"="the correct phone number";
+"Please enter the password";
+"Please enter the confirmation password"="Please enter the confirmation password";
+"The password can't be too long or too short"="The password can't be too long or too shor";
+"Assessment details"="Assessment details";
+"BBS details"="BBS details";
+"release"="release";
+"Magazine content"="Magazine content";
+"Magazine details"="Magazine details";
+"Change the password"="Change the password";
+"Language Settings"="Language Settings";
+"Magazine content"="Magazine content";
+"Forgot password"="Forgot password";
+"Set up the"="Set up the";
+"directory"="directory";
+"article details"="article details";
+"My download"="My download";
+"Release success"="Release success";
+"Post failure"="Post failure";
+"Please enter a title"="Please enter a title";
+"Please fill out our feedback, your opinion is a big help for us"="Please fill out our feedback, your opinion is a big help for us";
+"Please leave your E-mail, so as to enable us to reply you"="Please leave your E-mail, so as to enable us to reply you";
+"No recommendation"="No recommendation";
+"oldpassword"="oldpassword";
+"newpassword"="newpassword";
+"Confirmpassword"="Confirmpassword";
+"Please enter the old password"="Please enter the old password";
+"Please enter a new password"="Please enter a new password";
+"Two input password is not the same"="Two input password is not the same";
+"Modify the success"="Modify the success";
+"Modify the failure"="Modify the failure";
+"Please enter the account"="Please enter the account";
+"Login successful"="Login successful";
+"Not logged in"="Not logged in";
+"Have downloaded"="Have downloaded";
+"Download failed"="Download failed";
+"Delete the success"="Delete the success";
+"Download successful"="Download successful";
+"Articles"="Articles";
+"Please fill in the comments"="Please fill in the comments";
+"send"="send";
+"Search"="Search";
+"Please enter your query keyword"="Please enter your query keyword";
+"Today"="Today";
+"Details directory"="Details directory";
+"Magazine details"="Magazine details";
+"Not logged in"="Not logged in";
+"cancel"="cancel";
+"Open the camera"="Open the camera";
+"Open the photo album"="Open the photo album";
+"Words can't be empty"="Words can't be empty";
+"Comment on failure"="Comment on failure";
+"Comment on success"="Comment on success";
+"Fill in the comments"="Fill in the comments";
+"magazine"="magazine";
+"In the download"="In the download";
+"The download is complete"="The download is complete";
+"Download address is empty"="Download address is empty";
+"delete"="delete";
+"Please enter the keywords"="Please enter the keywords";
+"Comment on success"="Comment on success";
+"Load failed"="Load failed";
+"view count"="view count";
+"reply count"="reply count";
+"product"="product";
+"Comment details"="Comment details";
+//
+////首页
+//"reading"="reading";
+//"download"="download";
+//
+//
+//
+//"Customer service telephone"="Customer service telephone";
+//
+"Oh, oh, there is no data!"="Oh, oh, there is no data!";
+"refresh"="refresh";
+"Click refresh to refresh the data"="Click refresh to refresh the data";
+"Magazine details"="Magazine details";
+"registered successful"="registered successful";
+"browse"="browse";
+"share"="share";
+"No one comment"="No one comment";
+"comments"="comments";
+"collection"="collection";
+"Stay tuned for"="Stay tuned for";

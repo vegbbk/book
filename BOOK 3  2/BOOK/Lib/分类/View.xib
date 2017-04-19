@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="欢迎页面" translatesAutoresizingMaskIntoConstraints="NO" id="jyg-Oc-yNh">
+                    <rect key="frame" x="0.0" y="0.0" width="640" height="1136"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="jyg-Oc-yNh" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Ket-7d-Y3z"/>
+                <constraint firstItem="jyg-Oc-yNh" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="mGI-cN-Vyf"/>
+            </constraints>
+            <point key="canvasLocation" x="276" y="112"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="欢迎页面" width="640" height="1136"/>
+    </resources>
+</document>
